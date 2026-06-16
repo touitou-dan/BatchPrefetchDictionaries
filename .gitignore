@@ -1,0 +1,7 @@
+bin/
+obj/
+BenchmarkDotNet.Artifacts/
+results/BenchmarkDotNet.Artifacts/
+results/*.log
+results/*.csv
+results/*.md
